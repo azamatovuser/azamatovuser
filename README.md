@@ -1,0 +1,4 @@
+- 👋 Hi, call me Azamat
+- 👀 I’m Backend developer, Python
+- 🌱 I’m currently learning REST API
+- 📫 How to reach me @azamatovhere (Telegram)
